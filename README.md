@@ -6,7 +6,7 @@ HTML, CSS, JS와 React를 사용하여 웹 서비스를 제작 할 수 있는 �
 
 원하는 기능을 구현하고 의도한 대로 동작하는 것에 대해 큰 성취감과 즐거움을 느낍니다.
 
-현재는 TypeScript 를 이용한 토이 프로젝트를 진행하며 공부하고 있습니다.
+현재는 토이 프로젝트를 진행하며 TypeScript와 Redux, ReduxToolkit을 공부하고 있습니다.
 
 
 ## Skills
