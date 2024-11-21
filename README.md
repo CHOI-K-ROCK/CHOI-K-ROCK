@@ -1,11 +1,30 @@
-## 프론트엔드 개발자 최경락입니다.
+## 반갑습니다!🖐️
 
-React / React Native 를 기반으로 서비스를 개발하고 있습니다.
+2년차 프론트엔드 엔지니어 최경락입니다.
+
+ㅤ
+
+서비스를 가장 먼저, 가장 많이 사용하는 사용자는 누구일까요? 바로 개발자입니다.
+
+즉, 더 좋은 사용자 경험을 위해서 개발자가 더 노력해야함을 이해하며, 주도적으로 고민하고 개선하려 합니다.
+
+이로 인해 해결한 작은 문제가 누군가에겐 큰 편의가 될 수 있다는 것에 큰 보람을 느낍니다.
+
+ㅤ
+
+서비스의 발전과 개인의 발전은 자연스레 동행하는 것이라고 생각합니다.
+
+그렇기에 서비스의 발전을 위해 새로운 것을 시도해보는 것을 두려워 하지않고, 오너십과 애착을 가지고 적극적으로 서비스를 발전시키려 고민하고, 노력합니다.
+
+ㅤ
+
+코드를 작성할 때 두번 더 고민하고, 양질의 코드를 작성 하고자 노력합니다.
+
+언젠가는 기술로 우리 주변의 문제를 해결 할 수 있는 사람이 되고자 합니다.
 
 ## Skills
-### Language
-<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"> 
-### Library
-<img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black"> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"> <img src="https://img.shields.io/badge/redux-764ABC?style=for-the-badge&logo=redux&logoColor=white"> <img src="https://img.shields.io/badge/styled-components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"> 
-### Tools
-<img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
+- React
+- React-Native
+- TypeScript
+- Redux, Zustand, Recoil
+- Javascript, HTML, CSS
